@@ -68,13 +68,13 @@ p {
   align-items: center;
 }
 
-.nava-list {
+.nav-list {
   display: flex;
   flex-direction: row;
   list-style: none;
 }
 
-.nava-item {
+.nav-item {
   font-family: 'Poppins', cursive;
   padding: 5%;
   min-width: max-content;
