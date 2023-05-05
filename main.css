@@ -3,7 +3,7 @@
 h1,
 h2,
 p {
-  font-family: 'Poppins', cursive;
+  font-family: cursive;
   text-align: center;
 }
 
@@ -35,7 +35,7 @@ p {
 
 .removeButton {
   font-family: 'Poppins', cursive;
-  border: 1px solid #2d2d2d;
+  border: 1px solid #2d2d3d;
   box-shadow: 3px 5px;
   margin: 1%;
   background-color: white;
