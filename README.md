@@ -8,7 +8,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://beyk.github.io/AwesomeBook/)
+
 
 ## Built With
 
@@ -21,6 +21,7 @@
 ## Authors
 
 👤 **Beyk**
+👤 **Sami**
 
 - GitHub: [@Beyk](https://github.com/beyk)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/asghar-beykmohammadi-1b16b291/)
