@@ -1,4 +1,4 @@
-import Book from './modules/book.js';
+import Book from './moduls/book.js';
 import * as nav from './modules/nav.js';
 
 
