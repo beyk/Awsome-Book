@@ -13,7 +13,7 @@ p {
 
 .main {
   display: none;
-  flex-direction: column;
+  flex-direction: column-sss;
   justify-content: space-between;
   align-items: center;
 }
